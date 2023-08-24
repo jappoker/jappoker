@@ -23,6 +23,8 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jappoker&hide_border=true)](https://git.io/streak-stats)
 ![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jappoker&hide_border=true&layout=compact)
 
+<!-- ![](github-metrics.svg) -->
+
 
 <!--
 ### / Featured Repos /
