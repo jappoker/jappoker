@@ -37,4 +37,4 @@ Hi there<img src="https://user-images.githubusercontent.com/1303154/88677602-163
 [twitter]: https://twitter.com/jyzzzhuang
 [orcid]: https://orcid.org/0000-0002-2987-3644
 [googlescholar]: https://scholar.google.com/citations?user=S16C9hAAAAAJ
-[cv]: https://www.jappoker.com/cv/
+[cv]: https://cv.iriszhuang.com/
