@@ -1,14 +1,12 @@
-Hi there<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="18px">. This is [Jingyi Zhuang][homepage].
+Hi there<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="18px">. This is Jingyi Zhuang.
 ### / about me/
 [![Website Badge](https://img.shields.io/badge/-Website-blue?style=flat&logo=Google-Chrome&logoColor=white)][homepage]
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)][linkedin]
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white)][twitter]
 [![GoogleScholar Badge](https://img.shields.io/badge/Google%20Scholar-blue?style=flat&logo=Google-Scholar&logoColor=white)][googlescholar]
 [![Orcid Badge](https://img.shields.io/badge/Orcid-0000--0002--2987--3644-AECD54?style=flat&logo=Orcid&logoColor=white)][orcid]
 
 * I am a scientist, programmer,
 * and a PhD Candidate in Department of Earth and Environmental Sciences, Columbia University.
-* Please see my cv [[here]][cv].
 
 ### / in my box /
 [![python & django](https://skillicons.dev/icons?i=python,django)](https://skillicons.dev)
